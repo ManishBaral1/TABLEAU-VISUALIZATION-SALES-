@@ -1,4 +1,4 @@
-TABLEAU PROJECT
+** TABLEAU PROJECT **
 CAR SALES DASHBOARD
 Background: Our dealership offers a variety of car models. To effectively monitor and analyze our sales performance, we need a comprehensive Car Sales Dashboard in Power BI.
 
