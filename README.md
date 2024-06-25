@@ -1,5 +1,7 @@
 # TABLEAU PROJECT
 ## CAR SALES DASHBOARD
+![car](car.jpeg)
+
 **Background**: Our dealership offers a variety of car models. To effectively monitor and analyze our sales performance, we need a comprehensive Car Sales Dashboard in Tableau.
 
 **Objective**: The goal of this project is to design and develop a dynamic and interactive Car Sales Dashboard using Tableau. The dashboard will visualize key KPIs related to our car sales, helping us understand our sales performance over time and make data-driven decisions.
