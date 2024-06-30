@@ -4,7 +4,7 @@
 
 ## LINK OF DASHBOARD AT TABLEAU PUBLIC https://public.tableau.com/app/profile/manish.baral3192/viz/CARSALES_17196700811670/Dashboard2 
 
-![](DASHBOARD.png)
+![Alt Text](DASHBOARD.png)
 
 **Background**: Our dealership offers a variety of car models. To effectively monitor and analyze our sales performance, we need a comprehensive Car Sales Dashboard in Tableau.
 
