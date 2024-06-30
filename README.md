@@ -6,7 +6,7 @@
 
 ![](DASHBOARD.png)
 
-<td><img src="(DASHBOARD.png)" width=270 height=480></td>
+<td><img src="(car.jpeg)" width=270 height=480></td>
 
 **Background**: Our dealership offers a variety of car models. To effectively monitor and analyze our sales performance, we need a comprehensive Car Sales Dashboard in Tableau.
 
